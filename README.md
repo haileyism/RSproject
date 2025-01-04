@@ -1,6 +1,6 @@
 # RSproject
 
-Fall 2024 Recommendation System final project
+Recommendation System project
 
 Author: [Yongyu Liu](yl8127@nyu.edu), [Hailey Pang](yp705@nyu.edu), [Yuxuan Wang](yw5343@nyu.edu)
 
